@@ -1,0 +1,15 @@
+# Hugo files
+/public/
+/resources/_gen/
+/node_modules/
+/hugo_stats.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
