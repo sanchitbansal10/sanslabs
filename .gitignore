@@ -1,15 +1,7 @@
-# Hugo files
+# Hugo default output directory
 /public/
+
+# Other common Hugo-related entries you might want to include
 /resources/_gen/
-/node_modules/
-/hugo_stats.json
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# IDE specific files
-.vscode/
-.idea/
-*.swp
-*.swo
+/assets/jsconfig.json
+/.hugo_build.lock
